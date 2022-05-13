@@ -22,6 +22,11 @@ font-size: 1.2em;
 		flex-direction: column;
 	}
 }
+section {
+	margin-left: 10px;
+	margin-right: 10px;
+	padding: 20px;
+}
 
 h1
 {
@@ -32,26 +37,43 @@ h1
 	text-shadow: 4px 4px 4px black;
 	font-size: 3.3em;
 }
-
-h2
-{
-	font-weight: bold;
-	font-size: 2.5em;
-}
-
-h3{font-size: 2em;}
-#Activités{
-	border: 2px black solid;
-	border-radius: 10px;
-	background-image: url(roller-hockey.jpg);
-}
-
 img
 {
-    float: right;
+    position: absolute;
+	top: 15px;
+	right: 15px;
     border: 1px solid black;
     box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.8);
     width: 125px;
     height: auto;
 	border-radius: 5%;
+}
+
+h2
+{
+	font-weight: bold;
+	font-size: 2em;
+	text-align: center;
+}
+
+h3 {
+	font-size: 1.6em;
+}
+#Activités{
+	border: 2px black solid;
+	border-radius: 10px;
+	background-image: url(roller-hockey.jpg);
+	text-shadow: 2px 2px 5px whitesmoke;
+	
+}
+
+#Formation a {
+	color: darkred;
+}
+#Formation a:hover {
+	text-decoration: none;
+	font-size: 1.2em;
+}
+footer {
+	
 }
