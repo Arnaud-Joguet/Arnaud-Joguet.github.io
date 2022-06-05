@@ -37,6 +37,10 @@ h1
 	text-shadow: 4px 4px 4px black;
 	font-size: 3.3em;
 }
+nav {
+	float: right;
+	
+}
 img
 {
     position: absolute;
@@ -47,6 +51,7 @@ img
     width: 125px;
     height: auto;
 	border-radius: 5%;
+	display: none;
 }
 
 h2
