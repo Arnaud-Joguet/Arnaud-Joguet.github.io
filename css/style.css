@@ -6,7 +6,7 @@
 
 body
 {
-background-image: url("fondcv.jpg");
+background-image: url("../images/fondcv.jpg");
 background-attachment: fixed;
 background-repeat: no-repeat;
 font-size: 1.2em;
@@ -67,7 +67,7 @@ h3 {
 #Activités{
 	border: 2px black solid;
 	border-radius: 10px;
-	background-image: url(roller-hockey.jpg);
+	background-image: url(../images/roller-hockey.jpg);
 	text-shadow: 2px 2px 5px whitesmoke;
 	
 }
