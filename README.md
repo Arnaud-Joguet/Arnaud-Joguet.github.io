@@ -17,7 +17,7 @@ I'm proficient in the following areas:
 
 If you're interested in my profile, feel free to contact me:
 
-- 📧 [Email](arnaud.joguet@gmail.com)
+- 📧 Email: arnaud.joguet@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/arnaud-joguet)
 - 🐱 [GitHub](https://github.com/Arnaud-Joguet)
 
